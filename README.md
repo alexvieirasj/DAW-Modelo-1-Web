@@ -12,7 +12,7 @@ O sistema foi desenvolvido durante um trabalho para a faculdade. O projeto que t
 ## :grey_question: Sobre esse projeto
 
 Feito com objetivo de aprimorar as habilidades de interpretação e resoluçõe de problemas conforme solicitado na elaboração do projeto. 
-Os arquivos do frontend estão nesse repositório, para acessar o backend clique aqui [DAW-Modelo-1-Model](https://github.com/alexvieirasj/DAW-Modelo-1-Model.git)  
+Os arquivos do frontend estão nesse repositório, para acessar o backend clique aqui [Model](https://github.com/alexvieirasj/DAW-Modelo-1-Model.git)  
 
 ## :rocket: Tecnologias utilizadas no projeto
 
@@ -26,6 +26,7 @@ As tecnologias utilizadas no projeto foram:
 - [All Themes](https://mvnrepository.com/artifact/org.primefaces.themes/all-themes/1.0.10)
 - [Primefaces](https://www.primefaces.org/primefaces-6-1-final-released/)
 - [JavaServer Faces](http://www.java2s.com/example/jar/j/download-javaxfaces2214jar-file.html)
+- [Apache Tomcat 9](https://tomcat.apache.org/download-90.cgi)
 
 ## :package: Como utilizar o projeto
 
@@ -50,4 +51,4 @@ O projeto pode ser baixado com as linhas de comando ou no formato zip clicando n
 
 ## :memo: Licença
 
-Este projeto está sob a MIT License. Acesso o arquivo [LICENSE](https://github.com/alexvieirasj/DAW-Modelo-1-Model/blob/master/LICENSE) para maiores detalhes.
+Este projeto está sob a MIT License. Acesso o arquivo [LICENSE](https://github.com/alexvieirasj/DAW-Modelo-1-Web/blob/master/LICENSE) para maiores detalhes.

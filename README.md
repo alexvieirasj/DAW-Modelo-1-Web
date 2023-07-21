@@ -4,15 +4,15 @@
 
 ## 💻 Detalhes do projeto
 
-O sistema foi desenvolvido durante um trabalho para a faculdade. O projeto que tem por objetivo disponibilizar um sistema onde seja possível fazer o controle de cursos de uma universidade.
+O sistema foi desenvolvido durante um trabalho para a faculdade no ano de 2017. O projeto que tem por objetivo disponibilizar um sistema onde seja possível fazer o controle de cursos de uma universidade, cadastrando alunos, especialidades de professores, disciplinas e cursos.
 <h1 align="center">
     <img alt="Capa Projeto" title="CapaProjeto" src="./demonstracao-funcionamento-sistema.gif"/>
 </h1>
 
 ## :grey_question: Sobre esse projeto
 
-Feito com objetivo de aprimorar as habilidades de interpretação e resoluçõe de problemas conforme solicitado na elaboração do projeto. 
-Os arquivos do frontend estão nesse repositório, para acessar o backend clique aqui [Model](https://github.com/alexvieirasj/DAW-Modelo-1-Model.git)  
+Feito com objetivo de aprimorar as habilidades de interpretação e resoluções de problemas conforme solicitado na elaboração do projeto. 
+Os arquivos do frontend estão nesse repositório, para ver a camada de negocio, classes e o modelo de entidade relacionamento clique em [Model](https://github.com/alexvieirasj/DAW-Modelo-1-Model.git)  
 
 ## :rocket: Tecnologias utilizadas no projeto
 

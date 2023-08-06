@@ -5,7 +5,7 @@
 <p align="center">
     <img alt="Origem Projeto" src="https://img.shields.io/badge/Project-Personal-informational">
     <img  alt="College Project" src="https://img.shields.io/badge/Course-College-important">
-    <img alt="Difficult Level" src="https://img.shields.io/badge/level-hard-critical">
+    <img alt="Difficult Level" src="https://img.shields.io/badge/level-medium-yellow">
     <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alexvieirasj/DAW-Modelo-1-Web">
     <img alt="Issue" src="https://img.shields.io/bitbucket/issues/alexvieirasj/DAW-Modelo-1-Web?style=critical">
     <img alt="Pull Request" src="https://img.shields.io/bitbucket/pr-raw/alexvieirasj/DAW-Modelo-1-Web?style=critical">

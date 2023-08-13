@@ -14,7 +14,7 @@
 ## 💻 Detalhes do projeto
 
 O sistema foi desenvolvido durante um trabalho para a faculdade no ano de 2017. O projeto que tem por objetivo disponibilizar um sistema onde seja possível fazer o controle de cursos de uma universidade, cadastrando alunos, especialidades de professores, disciplinas e cursos. Feito com objetivo de aprimorar as habilidades de interpretação e resoluções de problemas conforme solicitado na elaboração do projeto. 
-Os arquivos do frontend estão nesse repositório, para ver a camada de negocio, classes e o modelo de entidade relacionamento clique em [Model](https://github.com/alexvieirasj/DAW-Modelo-1-Model.git)  
+Os arquivos do frontend estão nesse repositório, [clique aqui para ver o backend](https://github.com/alexvieirasj/DAW-Modelo-1-Model.git)  
 
 <h1 align="center">
     <img alt="Capa Projeto" title="CapaProjeto" src="./demonstracao-funcionamento-sistema.gif"/>
@@ -39,7 +39,7 @@ As tecnologias/ferramentas utilizadas no projeto foram:
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas listadas abaixo:
 
 - [ ] Melhorar o layout para diferenciar as manutenções basicas da principais
-- [ ] Ajustar a diferença na inserção de usuários (é aluno ou professor)
+- [ ] Ajustar a diferença na inserção de usuários na manutenção (é aluno ou professor)
 - [ ] Melhorar os filtros de buscas
 
 ## :package: Como utilizar o projeto
@@ -83,3 +83,9 @@ Lista de pessoas que contribuíram para este projeto:
 ## 😄 Seja um dos contribuidores<br>
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+[⬆ Voltar ao topo](#title)
